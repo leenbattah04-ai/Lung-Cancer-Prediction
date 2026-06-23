@@ -111,15 +111,6 @@ Lung-Cancer-Prediction/
 
 ---
 
-## 🚀 Future Improvements
-
-* Feature selection optimization
-* Hyperparameter tuning for ML models
-* Deployment as a web application (Shiny App)
-* Handling imbalanced data techniques
-
----
-
 ## 👩‍💻 Author
 
 Data Science & Artificial Intelligence Student
